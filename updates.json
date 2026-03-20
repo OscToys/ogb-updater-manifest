@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.1.10",
-  "latestInstaller": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.10/OscGoesBrrr-setup-2.1.10.exe",
+  "latestVersion": "2.1.11",
+  "latestInstaller": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.11/OscGoesBrrr-setup-2.1.11.exe",
   "downloadUrls": {
-    "windowsSetup": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.10/OscGoesBrrr-setup-2.1.10.exe",
-    "windowsPortable": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.10/OscGoesBrrr-portable-2.1.10.exe"
+    "windowsSetup": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.11/OscGoesBrrr-setup-2.1.11.exe",
+    "windowsPortable": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.11/OscGoesBrrr-portable-2.1.11.exe"
   }
 }
