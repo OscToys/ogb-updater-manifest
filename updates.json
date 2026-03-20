@@ -1,8 +1,11 @@
 {
-  "latestVersion": "2.1.12",
-  "latestInstaller": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.12/OscGoesBrrr-setup-2.1.12.exe",
+  "latestVersion": "2.1.13",
+  "latestInstaller": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.13/OscGoesBrrr-windows-setup-2.1.13.exe",
   "downloadUrls": {
-    "windowsSetup": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.12/OscGoesBrrr-setup-2.1.12.exe",
-    "windowsPortable": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.12/OscGoesBrrr-portable-2.1.12.exe"
+    "windowsSetup": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.13/OscGoesBrrr-windows-setup-2.1.13.exe",
+    "windowsPortable": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.13/OscGoesBrrr-windows-portable-2.1.13.exe",
+    "generic": "https://github.com/OscToys/OscGoesBrrr/releases/tag/v2.1.13",
+    "linuxAppImage": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.13/OscGoesBrrr-linux-2.1.13.AppImage",
+    "linuxRpm": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.13/OscGoesBrrr-linux-2.1.13.rpm"
   }
 }
