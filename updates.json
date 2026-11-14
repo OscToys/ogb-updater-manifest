@@ -1,11 +1,11 @@
 {
-  "latestVersion": "2.1.35",
-  "latestInstaller": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.35/OscGoesBrrr-windows-setup-2.1.35.exe",
+  "latestVersion": "2.1.36",
+  "latestInstaller": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.36/OscGoesBrrr-windows-setup-2.1.36.exe",
   "downloadUrls": {
-    "windowsSetup": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.35/OscGoesBrrr-windows-setup-2.1.35.exe",
-    "windowsPortable": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.35/OscGoesBrrr-windows-portable-2.1.35.exe",
-    "generic": "https://github.com/OscToys/OscGoesBrrr/releases/tag/v2.1.35",
-    "linuxAppImage": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.35/OscGoesBrrr-linux-2.1.35.AppImage",
-    "linuxRpm": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.35/OscGoesBrrr-linux-2.1.35.rpm"
+    "windowsSetup": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.36/OscGoesBrrr-windows-setup-2.1.36.exe",
+    "windowsPortable": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.36/OscGoesBrrr-windows-portable-2.1.36.exe",
+    "generic": "https://github.com/OscToys/OscGoesBrrr/releases/tag/v2.1.36",
+    "linuxAppImage": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.36/OscGoesBrrr-linux-2.1.36.AppImage",
+    "linuxRpm": "https://github.com/OscToys/OscGoesBrrr/releases/download/v2.1.36/OscGoesBrrr-linux-2.1.36.rpm"
   }
 }
